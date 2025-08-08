@@ -1,4 +1,0 @@
-LINE1.
-LINE2.
-Line3.
-Line4.
