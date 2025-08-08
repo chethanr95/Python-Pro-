@@ -1,0 +1,14 @@
+{
+    "Amazon": {
+        "email": "abc@email.com",
+        "password": "12133asadsm*"
+    },
+    "Google": {
+        "email": "abc@email.com",
+        "password": "212dads#vs"
+    },
+    "ebay": {
+        "email": "abc@email.com",
+        "password": "ew323c*12s"
+    }
+}
